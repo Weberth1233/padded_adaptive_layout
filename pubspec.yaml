@@ -3,9 +3,9 @@ description: >
   A simple and flexible Flutter widget that helps you build responsive layouts
   with automatic padding based on screen breakpoints.
 version: 1.0.0
-homepage: https://github.com/seu-usuario/padded_adaptive_layout
-repository: https://github.com/seu-usuario/padded_adaptive_layout
-issue_tracker: https://github.com/seu-usuario/padded_adaptive_layout/issues
+homepage: https://github.com/Weberth1233/padded_adaptive_layout.git
+repository: https://github.com/Weberth1233/padded_adaptive_layout.git
+issue_tracker: https://github.com/Weberth1233/padded_adaptive_layout/issues
 
 environment:
   sdk: ">=3.1.0 <4.0.0"
